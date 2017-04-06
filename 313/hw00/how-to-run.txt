@@ -1,0 +1,6 @@
+dude, to run a file/program:
+start clisp
+	$clisp
+load the file
+	[]> (load "<filename>")
+then other shit i dunno

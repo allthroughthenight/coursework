@@ -1,0 +1,1 @@
+ICS 313 Programming Language Theory: Syntax, semantics, control structures, variable binding and scopes, data and control abstractions. Programming in functional (LISP) and logic (Prolog) programming styles.

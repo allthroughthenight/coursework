@@ -1,9 +1,5 @@
 /****************************************************************
 //
-// HOMEWORK:    hw1
-//
-// CLASS:       ICS 212
-//
 // FILE:        hw1.c
 //
 // DESCRIPTION: Driver and user-interface functions for Homework 1
@@ -18,7 +14,7 @@ void tempIn();
 void printTemp(int);
 float convertFtoC(int);
 
-main()
+int main()
 {
    printf("\n");
    printf("Tempurature convertion table v1.0\n");

@@ -1,9 +1,5 @@
 ;--------------------------------------------------------
 ;
-;	assg: 3
-;
-;	class: 312
-;
 ;	file: hw1_ex1.asm
 ;
 ;	description: take two characters and return them in statment

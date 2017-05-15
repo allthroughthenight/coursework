@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw3
-//
-// CLASS: ICS 212
-//
 // FILE: hw3main.c
 //
 // DESCRIPTION: This file contains the main function to drive hw3

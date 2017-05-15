@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw7b
-//
-// CLASS: ICS 212
-//
 // FILE: hw7bmain.c
 //
 // DESCRIPTION: This file contains the functions for hw7b.

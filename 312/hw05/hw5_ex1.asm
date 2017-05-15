@@ -1,9 +1,5 @@
 ;--------------------------------------------------------
 ;
-;	hw: 5
-;
-;	class: 312
-;
 ;	file: hw5_ex1.asm
 ;
 ;	description: check that user input is between 0 and 95

@@ -2,11 +2,6 @@ import java.io.*;
 import java.util.*;
 import java.lang.*;
 
-/**
- * ForkFlipFlop --- call 'FlipFlop' using pipethread
- *
- * @version 1.0
- **/
 public class ForkFlipFlop {
 
 	/**

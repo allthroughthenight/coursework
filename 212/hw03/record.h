@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw3
-//
-// CLASS: ICS 212
-//
 // FILE: record.h
 //
 // DESCRIPTION: This file contains the struct defenition of record for hw3

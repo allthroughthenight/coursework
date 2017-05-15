@@ -1,9 +1,5 @@
 ;--------------------------------------------------------
 ;
-;	hw: 5
-;
-;	class: 312
-;
 ;	file: hw5_ex2.asm
 ;
 ;	description: prints out the number of bins available

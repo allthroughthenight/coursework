@@ -1,5 +1,3 @@
-package edu.hawaii.ics314;
-
 import java.util.Scanner;
 
 public class Event {
@@ -28,7 +26,7 @@ public class Event {
 
   /**
    * Method to create new event.
-   * 
+   *
    * @return New event that was created
    */
   @SuppressWarnings("resource")
@@ -73,7 +71,7 @@ public class Event {
 
   /**
    * Sets the summary of the Event.
-   * 
+   *
    * @param summaryL
    *          The description of the event to be set
    */
@@ -83,7 +81,7 @@ public class Event {
 
   /**
    * Sets the starting date and time of the Event.
-   * 
+   *
    * @param input
    *          The date and time to be set
    */
@@ -93,7 +91,7 @@ public class Event {
 
   /**
    * Sets the ending date and time of the Even.
-   * 
+   *
    * @param dateTimeEnL
    *          The date and time to be set
    */
@@ -103,7 +101,7 @@ public class Event {
 
   /**
    * Sets the location of the Event.
-   * 
+   *
    * @param locationL
    *          The location to be set
    */
@@ -113,7 +111,7 @@ public class Event {
 
   /**
    * Sets the descriptions of the Even.
-   * 
+   *
    * @param descriptionL
    *          The description to be set
    */
@@ -123,7 +121,7 @@ public class Event {
 
   /**
    * Sets the class type of the Event.
-   * 
+   *
    * @param classTypeL
    *          The class type to be set
    */
@@ -137,7 +135,7 @@ public class Event {
 
   /**
    * Gets Event object's fields and makes a formatting string to print to file.
-   * 
+   *
    * @return Formated string of Event fields.
    */
   public String getEvent() {
@@ -155,7 +153,7 @@ public class Event {
 
   /**
    * Return the start time DTG of the event.
-   * 
+   *
    * @return String of the Event start time
    */
   public String getDateTimeS() {
@@ -164,7 +162,7 @@ public class Event {
 
   /**
    * Returns the end time DTG of the Event.
-   * 
+   *
    * @return String of the Event end time
    */
   public String getDateTimeE() {

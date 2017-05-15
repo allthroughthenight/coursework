@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw3
-//
-// CLASS: ICS 212
-//
 // FILE: hw3main.c
 //
 // DESCRIPTION: This file contains the main function to drive hw3
@@ -212,7 +208,7 @@ void main(int argc, char * argv[])
             case 7:
                 for (clear = 0; clear < 50; clear++ )
                     printf("\n");
-                    
+
                 choice = 0;
                 break;
             default:

@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw3
-//
-// CLASS: ICS 212
-//
 // FILE: hw3header.c
 //
 // DESCRIPTION: This file contains fucntions prototypes for hw3

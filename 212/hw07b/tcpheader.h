@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw7b
-//
-// CLASS: ICS 212
-//
 // FILE: tcpheader.h
 //
 // DESCRIPTION: This file contains the the struct for a tcpheader.

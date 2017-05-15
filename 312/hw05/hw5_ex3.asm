@@ -1,9 +1,5 @@
 ;--------------------------------------------------------
 ;
-;	hw: 5
-;
-;	class: 312
-;
 ;	file: hw5_ex3.asm
 ;
 ;	description: prints out histograms by range

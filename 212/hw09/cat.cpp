@@ -1,9 +1,5 @@
 /****************************************************************
 //
-// HOMEWORK:    hw9
-//
-// CLASS:       ICS 212
-//
 // FILE:        cat.cpp
 //
 // DESCRIPTION: Cat child class

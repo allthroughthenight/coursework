@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw3
-//
-// CLASS: ICS 212
-//
 // FILE: hw3dbfunc.c
 //
 // DESCRIPTION: This file contains data base fucntion defenitions for hw3

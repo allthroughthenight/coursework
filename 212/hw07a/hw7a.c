@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw7a
-//
-// CLASS: ICS 212
-//
 // FILE: hw7a.c
 //
 // DESCRIPTION: This file contains the driver and functions for hw7a.

@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw5
-//
-// CLASS: ICS 212
-//
 // FILE: hw5main.c
 //
 // DESCRIPTION: This file contains the main driver for hw5
@@ -87,7 +83,7 @@ void main()
 
     /* Segmentation fault won't happen in practice because the file will be
     formatted only by a program */
-    
+
     printf("Segmentation Fault (core dumped)...\n");
 
     /* File exist but isn't same size */

@@ -1,5 +1,4 @@
 ;;;; -*- Mode: LISP; Syntax: Common-lisp; Package: USER; Base: 10 -*-
-;;;; Course: ICS313 Assignment: assg 05
 
 ;(setf tpl:*print-length* nil)
 (defparameter *magic_amulet* nil)

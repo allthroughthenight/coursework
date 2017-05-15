@@ -1,9 +1,5 @@
 ;--------------------------------------------------------
 ;
-;	assg: 3
-;
-;	class: 312
-;
 ;	file: hw1_ex2.asm
 ;
 ;	description: reverse the order of four capital

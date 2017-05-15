@@ -1,5 +1,4 @@
 ;;;; -*- Mode: LISP; Syntax: Common-lisp; Package: USER; Base: 10 -*-
-;;;; Course: ICS313 Assignment: assg 01
 
 ;; declare *small* global variable
 (defparameter *small* 1)

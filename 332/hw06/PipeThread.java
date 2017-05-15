@@ -1,10 +1,5 @@
 import java.io.*;
 
-/**
- * PipeThread --- redirect input from one place to another
- *
- * @version 1.0
- **/
 public class PipeThread extends Thread
 {
 	InputStream inStream;

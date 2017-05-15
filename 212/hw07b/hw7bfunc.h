@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw7b
-//
-// CLASS: ICS 212
-//
 // FILE: hw7bfunc.h
 //
 // DESCRIPTION: This file contains the functions prototypes of hw7bfunc.

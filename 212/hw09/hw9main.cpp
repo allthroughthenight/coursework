@@ -1,9 +1,5 @@
 /****************************************************************
 //
-// HOMEWORK:    hw9
-//
-// CLASS:       ICS 212
-//
 // FILE:        hw9main.cpp
 //
 // DESCRIPTION: Main driver method

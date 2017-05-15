@@ -1,5 +1,3 @@
-package edu.hawaii.ics314;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 

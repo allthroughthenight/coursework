@@ -1,5 +1,3 @@
-package edu.hawaii.ics314;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -8,7 +6,7 @@ public class Calendar implements Comparator<Event> {
 
   /**
    * Method to print an Array List of Events.
-   * 
+   *
    * @param event
    *          Array List of Events to be printed
    *
@@ -23,7 +21,7 @@ public class Calendar implements Comparator<Event> {
 
   /**
    * Give header string for beginning of .ics calendar file.
-   * 
+   *
    * @return Beginning of calendar header string
    */
   public String printHeader() {
@@ -32,7 +30,7 @@ public class Calendar implements Comparator<Event> {
 
   /**
    * Give footer string for end of .ics calendar file.
-   * 
+   *
    * @return End of calendar footer string
    */
   public String printFooter() {
@@ -50,7 +48,7 @@ public class Calendar implements Comparator<Event> {
 
   /**
    * Sorts an Array List of Events based on start time.
-   * 
+   *
    * @param calendar
    *          Array List to be sorted
    */
@@ -64,10 +62,10 @@ public class Calendar implements Comparator<Event> {
 
   /**
    * Override of Collections comapreTo method to be used by sortEvents.
-   * 
+   *
    * @param o1
    *        Event 1 to compare
-   *        
+   *
    * @param o2
    *        Event 2 to compare
    */

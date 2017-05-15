@@ -1,9 +1,5 @@
 ;--------------------------------------------------------
 ;
-;	hw: 5
-;
-;	class: 312
-;
 ;	file: hw5_ex4.asm
 ;
 ;	description: take user input and print out histograms by distribution

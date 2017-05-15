@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw5
-//
-// CLASS: ICS 212
-//
 // FILE: iofunctions.c
 //
 // DESCRIPTION: This file contains the file input and output function defenitions for hw5

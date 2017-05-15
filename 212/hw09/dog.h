@@ -1,9 +1,5 @@
 /****************************************************************
 //
-// HOMEWORK:    hw9
-//
-// CLASS:       ICS 212
-//
 // FILE:        dog.h
 //
 // DESCRIPTION: Dog child class header

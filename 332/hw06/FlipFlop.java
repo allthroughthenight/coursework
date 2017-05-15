@@ -2,11 +2,6 @@ import java.io.*;
 import java.util.*;
 import java.lang.*;
 
-/**
- * FlipFlop --- print 'flip' or 'flop' using threads
- *
- * @version 1.0
- **/
 public class FlipFlop
 {
 	public static int printCount = 20;

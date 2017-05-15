@@ -2,11 +2,6 @@ import java.io.*;
 import java.lang.*;
 import java.util.*;
 
-/**
- * Jsh --- command-line interpreter shell in java
- *
- * @version 1.0
- **/
 public class Jsh
 {
 

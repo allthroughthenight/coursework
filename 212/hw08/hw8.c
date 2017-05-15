@@ -1,13 +1,5 @@
 /****************************************************************
 //
-// HOMEWORK:    hw8
-//
-// CLASS:       ICS 212
-//
-// INSTRUCTOR:  Ravi Narayan
-//
-// DATE:        Janurary 24, 2016
-//
 // FILE:        hw8.c
 //
 // DESCRIPTION: Driver and user-interface functions for Homework 8

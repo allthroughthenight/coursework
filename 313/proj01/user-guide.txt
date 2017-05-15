@@ -1,0 +1,55 @@
+ _____                         _    _ _                  _   _____             _
+/  ___|                       | |  | (_)                | | /  ___|           (_)
+\ `--. _   _ _ __   ___ _ __  | |  | |_ ______ _ _ __ __| | \ `--.  __ ___   ___  ___  _ __
+ `--. \ | | | '_ \ / _ \ '__| | |/\| | |_  / _` | '__/ _` |  `--. \/ _` \ \ / / |/ _ \| '__|
+/\__/ / |_| | |_) |  __/ |    \  /\  / |/ / (_| | | | (_| | /\__/ / (_| |\ V /| | (_) | |
+\____/ \__,_| .__/ \___|_|     \/  \/|_/___\__,_|_|  \__,_| \____/ \__,_| \_/ |_|\___/|_|
+            | |
+            |_|
+
+by Ryx Interactive Studios
+
++-------------+
+| User Guide  |
++-------------+
+
+
+Table of Contents
+	1. Introduction
+	2. Basic Tips
+	3. Valid Actions
+	4. End Goal
+
+1. Introdution
+
+You wake up in a large house. Your breathing echos hauntingly through the great
+hall. As you get familiar with your surroundings, a constant moaning can be
+heard all around. You see a zombie shambling around, but you're unsure what to
+do. You see a few items lying around and other locations. You might not know
+how you got here, but you'll find your way out for sure. You cant defeat
+zombies with mortal weapons. You need to summon the super wizard to destory all
+of them. Remember that actions need an object and subject.
+
+2. Basic Tips
+
+Being a text adventure game, it helps to have a pen and paper handy to draw out
+what the game world looks like. It can become quickly disorienting and
+fustrating when you want to return to a certain place but forget how. Or are
+stuck because you forgot of another location that you haven't visted yet.
+
+3. Valid Actions
+call - call the super wizard to destroy all the zombies and beat the game. Since
+he flys, you might want to be out side and cal lto the sky
+compound - combine magic items to make a better one
+shoot - use an item to shoot projectilse
+intro - a quick mood setting introuction to the game
+cast - cast a magic missle using a certain object
+splash - get something wet you you have a full item
+dunk - fill up an item with a liquid
+tie - fastest a strand of something to something else
+look - see what your surroundings are and where you can go
+walk - head in a certain direction
+pickup - add an item to your inventory
+inventory - see whats in your inventory
+help h ? - print out available commands
+mission - see what the end goal of the game is

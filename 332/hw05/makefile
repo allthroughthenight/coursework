@@ -1,4 +1,4 @@
-PROGRAM=jsh
+PROGRAM=Jsh
 JAVA=java
 JAVAC=javac
 

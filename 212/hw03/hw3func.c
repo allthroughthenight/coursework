@@ -1,9 +1,5 @@
 /*****************************************************************
 //
-// HOMEWORK: hw3
-//
-// CLASS: ICS 212
-//
 // FILE: hw3func.c
 //
 // DESCRIPTION: This file contains user input fucntion defenitions for hw3

@@ -1,0 +1,10 @@
+SERVER=server
+GCC=gcc
+OUTPUT_FLAG=-o
+PORT=8080
+
+$(SERVER): $(SERVER).c
+	$(GCC) $(OUTPUT_FLAG) $(SERVER) $(SERVER).c
+
+clean:
+	rm $(SERVER)

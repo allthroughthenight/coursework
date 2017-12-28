@@ -1,0 +1,11 @@
+proj2dbug: proj2main.o llist.o 
+	g++ -DDEBUG -o proj2dbug proj2main.o llist.o
+
+proj2main.o: proj2main.cpp
+	g++ -DDEBUG -c proj2main.cpp
+
+llist.o: llist.cpp
+	g++ -DDEBUG -c llist.cpp
+
+clean:
+	rm *.o proj2dbug

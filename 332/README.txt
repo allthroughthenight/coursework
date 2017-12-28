@@ -1,1 +1,0 @@
-ICS 332 Operating Systems: Operating system concepts and structure, processes and threads, CPU scheduling, memory management, scheduling, file systems, inter-process communication, virtualization, and popular operating systems. 

@@ -1,2 +1,0 @@
-gcc -w -o client client.c
-gcc -w -o server server.c

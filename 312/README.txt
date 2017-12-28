@@ -1,1 +1,0 @@
-ICS 312 Machine-Level and Systems Programming: Machine organization, machine instructions, addressing modes, assembler language, subroutine linkage, linking to higher-level languages, interface to operating systems, and introduction to assemblers, along with loaders and compilers.

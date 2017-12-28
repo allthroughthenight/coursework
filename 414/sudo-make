@@ -1,4 +1,0 @@
-#! /bin/bash
-javac ics414fa17/*/*.java
-java  ics414fa17.main.Main
-rm ics414fa17/*/*.class
